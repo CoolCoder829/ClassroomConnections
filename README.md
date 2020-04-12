@@ -10,7 +10,7 @@ Instructions for Use:
 3. cd into the directory that the project is stored: ex. cd downloads cd classroomconnections
 4. enter: "sudo gem install cocoapods" in terminal
 5. enter: "pod install" in terminal
-6. open project and run code
+6. open project and run code(open the white xcode)
 7. Simulator should pop up and just follow the demo video walkthrough
 
 
