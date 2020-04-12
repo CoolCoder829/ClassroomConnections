@@ -12,3 +12,6 @@ Instructions for Use:
 5. enter: "pod install" in terminal
 6. open project and run code
 7. Simulator should pop up and just follow the demo video walkthrough
+
+
+The bulk of the code is stored in the classroom connections folder, view controllers. There you can find most of our ui implementations and backend. 
