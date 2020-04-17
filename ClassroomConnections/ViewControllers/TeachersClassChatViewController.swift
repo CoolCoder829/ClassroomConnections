@@ -70,15 +70,6 @@ class TeacherClassChatViewController: UIViewController, UITextFieldDelegate {
             self.classRoomCode = identity
             
             
-            //            self.ref.child("Classrooms").child(identity).child("Messages").child("Message1").setValue(messageDictionary) {
-            //                (error, reference) in
-            //
-            //                if error != nil {
-            //                    print(error!)
-            //                } else {
-            //                    print("Message saved succesfully")
-            //                }
-            //            }
             self.retrieveMessages()
             
         }) { (error) in
