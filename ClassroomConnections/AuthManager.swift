@@ -9,6 +9,7 @@
 import Firebase
 import UIKit
 
+//allow user to stay log in
 class AuthManager {
     static let shared = AuthManager()
     var ref : DatabaseReference!
