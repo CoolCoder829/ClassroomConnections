@@ -8,6 +8,7 @@
 
 import UIKit
 
+// make user stay logged in
 class AuthHandler: UIViewController {
 
     override func viewDidAppear(_ animated: Bool) {
